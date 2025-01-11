@@ -1,4 +1,4 @@
-# Hi there, my name is Gabriel Koeb (or Gabe, for short), and I am a recent Computer Science Graduate
+#3 Hi there, my name is Gabriel Koeb (or Gabe, for short), and I am a recent Computer Science Graduate
 
 I primarily have experience working with web technologies such as TypeScript/JavaScript, React, Next.js, and node.js, as well as Java experience including Spring. I also have experience working with Python and Flask, and some data science applications. I am an eager learner and am currently pursuing a career in a Software Engineering role. Reach out to me if you have any questions!
 
